@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/emmanu18/logeeksatutors/
+    - export DEPLOYPATH=/home/emmanu18/public_html/logeeksatutors/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp css/logeeksatutors.css $DEPLOYPATH
